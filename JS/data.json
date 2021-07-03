@@ -1,0 +1,61 @@
+let movies = `[{
+        "movieName": "The DRY",
+        "image": "https://images.amcnetworks.com/ifcfilms.com/wp-content/uploads/2021/02/TheDryOneSheet.jpg",
+        "description": "Aaron Falk returns to his drought-stricken hometown to attend a tragic funeral.",
+        "director": "Robert Connolly",
+        "gerne": "Drama",
+        "year": 2020,
+        "rate": 5.9,
+        "likes": 0
+    },
+    {
+        "movieName": "Holler",
+        "image": "https://images.amcnetworks.com/ifcfilms.com/wp-content/uploads/2021/02/hollerposter.jpg",
+        "description": "To pay for her education, and the chance of a better life, a young woman joins a dangerous scrap metal crew.",
+        "director": "Nicole Riegel",
+        "gerne": "Drama",
+        "year": 2021,
+        "rate": 6.2,
+        "likes": 0
+    },
+    {
+        "movieName": "Sword of Trust",
+        "image": "https://images.amcnetworks.com/ifcfilms.com/wp-content/uploads/2019/04/poster.jpg",
+        "description": "Cynthia and Mary show up to collect Cynthia's inheritance from her deceased grandfather.",
+        "director": "Lynn Shelton",
+        "gerne": "Comedy",
+        "year": 2019,
+        "rate": 6.3,
+        "likes": 0
+    },
+    {
+        "movieName": "Far From the Tree",
+        "image": "https://images.amcnetworks.com/ifcfilms.com/wp-content/uploads/2018/05/FFTT_Poster_254x377_2.jpg",
+        "description": "Based on the NY Times bestselling book by Andrew Solomon. ",
+        "director": "Rachel Dretzin",
+        "gerne": "Documentary",
+        "year": 2018,
+        "rate": 7.7,
+        "likes": 0
+    },
+    {
+        "movieName": "Don’t Knock Twice",
+        "image": "https://images.amcnetworks.com/ifcfilms.com/wp-content/uploads/2017/02/DKT_254x377.jpg",
+        "description": "A mother desperate to reconnect with her troubled daughter becomes embroiled in the urban legend of a demonic witch.",
+        "director": "Caradog W. James",
+        "gerne": "Horror",
+        "year": 2017,
+        "rate": 5.1,
+        "likes": 0
+    },
+    {
+        "movieName": "The Man Who Knew Infinity",
+        "image": "https://images.amcnetworks.com/ifcfilms.com/wp-content/uploads/2016/04/TheManWhoKnewInfinity_254x377.jpg",
+        "description": "The story of the life and academic career of the pioneer Indian mathematician, Srinivasa Ramanujan.",
+        "director": "Matt Brown",
+        "gerne": "Biography",
+        "year": 2020,
+        "rate": 7.2,
+        "likes": 0
+    }
+]`

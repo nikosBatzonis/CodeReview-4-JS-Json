@@ -1,0 +1,46 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+header, .container-1 {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+.container-2 {
+  background-color: #1d2329;
+}
+
+.flexbox-card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+h6 {
+  font-size: 15px;
+}
+
+img {
+  height: 180px;
+  width: 150px;
+}
+
+.p {
+  margin-bottom: 0px;
+  font-size: 10px;
+}
+
+.footer {
+  color: black;
+}
+/*# sourceMappingURL=style.css.map */
